@@ -26,6 +26,6 @@ View the demo at http://files.katherinecorydesign.com/etsyxml.php using **[marym
 Contact / History
 ----------
 
-I created this script a few years ago to import a shop's Etsy listings into Drupal. I'm sharing this code because I remember struggling to find another solution to the issue of exporting Etsy data into XML.
+I created this script a few years ago to import a shop's Etsy listings into Drupal. I'm sharing this code because I remember struggling to find another solution that exported Etsy data into XML.
 
 If you have any questions or improvements feel free to leave an issue, fork this project or create a pull request. I can also be reached at hello@katherinecory.com
