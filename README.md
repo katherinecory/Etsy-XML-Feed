@@ -1,5 +1,5 @@
-# Etsy-XML-Feed
-----------
+# Etsy XML Feed
+
 Output an Etsy shop's listings as an XML Feed using Etsy's API, JSON and PHP.
 
 How to use
