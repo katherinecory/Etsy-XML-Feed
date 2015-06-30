@@ -13,7 +13,7 @@ Register a provisional app with Etsy Developers at https://www.etsy.com/develope
 
 Open and edit the etsyxml.php document. Replace the following variables:
 
-  $api_key = "api_key";
-  $username = "etsy_username";
+    $api_key = "api_key";
+    $username = "etsy_username";
 
 When saved, view the source of the PHP page to see the XML output.
