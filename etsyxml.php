@@ -5,8 +5,8 @@ $domain = $_SERVER['HTTP_HOST'];
 $path = $_SERVER['SCRIPT_NAME'];
 
 // Defines API Key, username and results limit //
-$api_key = "apikey";
-$username = "etsyusername";
+$api_key = "api_key";
+$username = "etsy_username";
 
 // Defines Etsy's sandbox listings URL with previous variables //
 $url = "https://openapi.etsy.com/v2/public/shops/" . $username . "/listings/active?includes=Images&api_key=" . $api_key;
