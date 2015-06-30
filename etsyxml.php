@@ -30,7 +30,7 @@ $count = $response->count;
 print '<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-    <title>Etsy Shop for' . $username . '</title>
+    <title>Etsy Shop for ' . $username . '</title>
     <link>http://' . $domain . $path . '</link>
     <description>Complete listings from ' . $username . '</description>
 	<language>en-us</language>
